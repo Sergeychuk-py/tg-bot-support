@@ -1,0 +1,6 @@
+
+
+# Pyre type checker
+.pyre/
+.idea/*
+.env.template
